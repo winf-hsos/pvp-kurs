@@ -8,7 +8,7 @@ Nennt Werkzeug, Version, Zeitraum und wofür ihr es genutzt habt.
 
 Bei der Erstellung dieses Exposés wurde der KI-Assistent OpenCode (Version ..., Sprachmodell ...) im Zeitraum vom ... bis ... eingesetzt, um ...
 
-Die vollständigen Sitzungsprotokolle liegen der Abgabe im Ordner „KI-Protokoll“ bei.
+Die vollständigen Sitzungsprotokolle aller Gruppenmitglieder liegen der Abgabe als Ordner „KI-Protokoll“ bei, einer je Person.
 
 ## Erklärung zum Einsatz von Künstlicher Intelligenz (KI) {.unnumbered}
 

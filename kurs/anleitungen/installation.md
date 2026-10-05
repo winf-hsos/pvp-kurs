@@ -18,7 +18,7 @@ Ladet die Desktop-App von [opencode.ai/download](https://opencode.ai/download) u
 
 ### Den Kursordner
 
-Ladet den Kursordner als ZIP von [github.com/winf-hsos/pvp-kurs](https://github.com/winf-hsos/pvp-kurs) (grüner Knopf *Code* > *Download ZIP*) und entpackt ihn. Wohin, steht in `zusammenarbeit.md`: am besten in einen Ordner, den eure Gruppe gemeinsam nutzt. Benennt den entpackten Ordner `pvp-kurs-main` gern um, etwa in `pvp-gruppe`.
+Ladet den Kursordner als ZIP von [github.com/winf-hsos/pvp-kurs](https://github.com/winf-hsos/pvp-kurs) (grüner Knopf *Code* > *Download ZIP*) und entpackt ihn. Jede Person der Gruppe macht das auf ihrem eigenen Laptop. Entpackt ihn an einen Ort, den ihr wiederfindet, etwa in Dokumente, und nicht im Ordner Downloads. Benennt den entpackten Ordner `pvp-kurs-main` gern um, etwa in `pvp-gruppe`.
 
 ### Ordner öffnen und starten
 

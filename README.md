@@ -7,7 +7,7 @@ In diesem Ordner schreibt eure Gruppe ihr Exposé, zusammen mit einem KI-Assiste
 ## Loslegen
 
 1. [OpenCode installieren](kurs/anleitungen/installation.md) und diesen Ordner als ZIP laden ([Code > Download ZIP](https://github.com/winf-hsos/pvp-kurs/archive/refs/heads/main.zip)).
-2. Den Ordner in einen [gemeinsamen Gruppenordner](kurs/anleitungen/zusammenarbeit.md) entpacken.
+2. Den Ordner entpacken; jede Person der Gruppe hat ihren eigenen. Wie ihr trotzdem gemeinsam schreibt, steht in [zusammenarbeit.md](kurs/anleitungen/zusammenarbeit.md).
 3. In OpenCode öffnen und `/einrichtung` tippen.
 
 Was diese Woche dran ist, steht in [kurs/JETZT.md](kurs/JETZT.md).
@@ -50,4 +50,4 @@ Die KI-Regeln des Leitfadens der Fakultät gelten auch hier; die Kurzfassung ste
 
 ## Abgabe
 
-Zu jeder Abgabe (vorläufig, 1. Abgabe, final) über die Aufgabe im Teams-Raum: `expose/abgabe/expose.docx`, die Präsentation als PowerPoint und den Ordner `KI-Protokoll` als ZIP. Termine in [kurs/termine.md](kurs/termine.md).
+Zu jeder Abgabe (vorläufig, 1. Abgabe, final) über die Aufgabe im Teams-Raum: `expose/abgabe/expose.docx`, die Präsentation als PowerPoint und von jeder Person ihren Ordner `KI-Protokoll` als eigenes ZIP. Termine in [kurs/termine.md](kurs/termine.md).

@@ -22,7 +22,7 @@ Das gilt nach dem Leitfaden als Täuschungsversuch.
 ## Pflicht
 
 - **Dokumentieren:** ein Abschnitt „Angaben zur Nutzung von KI“ im Exposé (Werkzeug, Version, Zeitraum, wofür) und die unterschriebene „Erklärung zum Einsatz von KI“. Den Entwurf schreibt `/ki-angaben`.
-- **Protokoll abgeben:** Der Leitfaden sagt, dass die Betreuungsperson die Prompts einfordern kann. In diesem Modul geschieht das immer, über den Ordner `KI-Protokoll`, der von selbst entsteht.
+- **Protokoll abgeben:** Der Leitfaden sagt, dass die Betreuungsperson die Prompts einfordern kann. In diesem Modul geschieht das immer, über den Ordner `KI-Protokoll`, der bei jeder Person von selbst entsteht und den jede Person abgibt.
 - **Quellen prüfen:** Was die KI an Quellen nennt, sucht ihr im Original, prüft es und zitiert es korrekt. KI-Werkzeuge erfinden Quellen.
 - **Verantwortung:** Für die fachliche Richtigkeit jedes Satzes seid ihr verantwortlich, nicht der Assistent.
 
