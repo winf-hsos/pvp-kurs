@@ -67,7 +67,13 @@ export const KiProtokoll = async ({ directory }) => {
     switch (tool) {
       case "read": return `gelesen: ${datei}`
       case "write": return `geschrieben: ${datei}`
-      case "edit": case "multiedit": case "patch": case "apply_patch": return `geändert: ${datei ?? "(mehrere Dateien)"}`
+      case "edit": case "multiedit": return `geändert: ${datei}`
+      case "patch": case "apply_patch": {
+        // Der Patch nennt seine Dateien im Text: "*** Update File: expose/literatur.bib"
+        const text = String(input.patchText ?? input.patch ?? "")
+        const dateien = [...text.matchAll(/^\*\*\* (?:Add|Update|Delete) File: (.+)$/gm)].map((m) => pfad(m[1].trim()))
+        return `geändert: ${dateien.length ? dateien.join(", ") : datei ?? "(Datei nicht erkennbar)"}`
+      }
       case "glob": return `Dateien gesucht: ${input.pattern}`
       case "grep": return `in Dateien gesucht: „${input.pattern}“`
       case "list": return `Ordner angesehen: ${datei ?? "."}`
