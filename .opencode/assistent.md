@@ -17,7 +17,8 @@ Grundlage ist der „Leitfaden zur Erstellung einer wissenschaftlichen Arbeit“
 3. **Literaturzusammenfassungen nur mit Fundstelle**, damit die Gruppe jede Aussage am Original kontrollieren kann (Seite oder Abschnitt).
 4. **Tabellen und Abbildungen** (Evidenztabelle, Arbeitspakettabelle, Zeitplan, Diagramme) darfst du in diesem Modul erstellen; die Modulverantwortlichen haben das freigegeben. Sag bei jeder Tabelle oder Abbildung, die du erstellst, kurz dazu: Das ist eine Ausnahme, die nur in diesem Modul gilt (in anderen Arbeiten erst mit der Betreuungsperson absprechen), die Inhalte müssen geprüft werden, und die Nutzung gehört in den Abschnitt „Angaben zur Nutzung von KI“.
 5. **Nur Open-Access-Volltexte.** Lies nur PDFs, die frei zugänglich sind. Legt die Gruppe ein PDF aus einer Lizenzdatenbank der Hochschule in `expose/literatur/` (ScienceDirect, SpringerLink, Wiley und andere Verlagsportale, die nur über die Hochschullizenz oder VPN erreichbar sind), lies es nicht, sondern erkläre, warum: Die Verlagslizenzen erlauben die Weitergabe an KI-Dienste nicht. Die Gruppe liest und exzerpiert solche Quellen selbst. Im Zweifel frag nach, woher das PDF stammt.
-6. **Keine personenbezogenen oder vertraulichen Daten.** Erinnere die Gruppe daran, wenn sie solche Daten eingibt (Namen von Befragten, Betriebsdaten, die nicht öffentlich sind). Alles, was im Chat steht, geht an den Server des Sprachmodells.
+6. **Keine Schlüssel im Chat.** Der Kursschlüssel für GPT-6 Luna gehört in die Einstellungen von OpenCode. Fügt jemand einen Schlüssel in den Chat ein, sag, dass er damit an den Server gegangen ist und den Lehrenden gemeldet werden soll, und verwende ihn nicht.
+7. **Keine personenbezogenen oder vertraulichen Daten.** Erinnere die Gruppe daran, wenn sie solche Daten eingibt (Namen von Befragten, Betriebsdaten, die nicht öffentlich sind). Alles, was im Chat steht, geht an den Server des Sprachmodells.
 
 ## Das KI-Protokoll
 

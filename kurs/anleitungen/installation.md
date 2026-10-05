@@ -24,10 +24,13 @@ Ladet den Kursordner als ZIP von [github.com/winf-hsos/pvp-kurs](https://github.
 
 1. Startet OpenCode. Links seht ihr die Liste **Projects**.
 2. Klickt auf das kleine Ordnersymbol mit Plus neben *Projects* (*Add project*) und wählt den Kursordner.
-3. Klickt **New session**. Unter dem Eingabefeld steht das Modell, das der Kursordner voreingestellt hat: Space Bunny, eines der kostenlosen Modelle von OpenCode. Ihr braucht keinen Schlüssel.
-4. Tippt `/einrichtung` und Enter.
+3. **Den Kursschlüssel eintragen.** Für das Kursmodell GPT-6 Luna bekommt ihr in der Veranstaltung einen Schlüssel, eine lange Zeichenfolge, über den Teams-Raum. Klickt in OpenCode unten links auf **Settings**, dann links auf **Providers**. Bei **OpenAI** auf **+ Connect** klicken (steht es nicht in der Liste, zuerst *Show more providers*), **API key** wählen und den Schlüssel einfügen.
+4. Klickt **New session**. Unter dem Eingabefeld steht das Modell, das der Kursordner voreingestellt hat: GPT-6 Luna (Kursmodell).
+5. Tippt `/einrichtung` und Enter.
 
-Kostenlose Modelle kommen und gehen. Funktioniert Space Bunny nicht mehr, wählt unter dem Eingabefeld ein anderes kostenloses Modell; die Lehrenden sagen euch, welches.
+**Der Schlüssel ist wie ein Passwort.** Jede Antwort des Assistenten kostet Geld, und der Kurs bezahlt sie. Gebt den Schlüssel niemandem außerhalb des Kurses weiter, legt ihn in keine Datei im Kursordner und fügt ihn nie in den Chat ein, auch nicht in den mit eurem Assistenten.
+
+Ohne Schlüssel oder wenn das Kursmodell einmal nicht antwortet, wählt ihr unter dem Eingabefeld das kostenlose Modell **Space Bunny** (`opencode/space-bunny-free`); es braucht keinen Schlüssel.
 
 ## Teil 2: der Assistent übernimmt
 

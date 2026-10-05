@@ -28,5 +28,6 @@ Das gilt nach dem Leitfaden als Täuschungsversuch.
 
 ## Daten
 
-- Keine personenbezogenen oder vertraulichen Daten in den Chat: keine Namen von Befragten, keine nicht öffentlichen Betriebsdaten, keine Passwörter.
+- Keine personenbezogenen oder vertraulichen Daten in den Chat: keine Namen von Befragten, keine nicht öffentlichen Betriebsdaten, keine Passwörter und nie den Kursschlüssel.
+- Der Kursschlüssel für GPT-6 Luna gehört nur in die Einstellungen von OpenCode, nicht in eine Datei und nicht an Personen außerhalb des Kurses.
 - Nur Open-Access-Volltexte an den Assistenten geben. PDFs aus Lizenzdatenbanken der Hochschule lest ihr selbst.

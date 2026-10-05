@@ -4,8 +4,31 @@
     ".opencode/assistent.md",
     "expose/AGENTS.md"
   ],
-  "model": "opencode/space-bunny-free",
+  "model": "openai/gpt-6-luna",
   "small_model": "opencode/space-bunny-free",
+  "enabled_providers": [
+    "openai",
+    "opencode"
+  ],
+  "provider": {
+    "openai": {
+      "models": {
+        "gpt-6-luna": {
+          "name": "GPT-6 Luna (Kursmodell)",
+          "attachment": true,
+          "modalities": {
+            "input": [
+              "text",
+              "image"
+            ],
+            "output": [
+              "text"
+            ]
+          }
+        }
+      }
+    }
+  },
   "share": "disabled",
   "permission": {
     "edit": {
