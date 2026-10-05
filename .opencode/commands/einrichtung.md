@@ -2,7 +2,7 @@
 description: Einmal zu Beginn – Quarto und Editor einrichten, Gruppe und Thema festhalten
 ---
 
-Das ist die erste Sitzung einer Gruppe mit dir, meist im Kurs mit den Lehrenden im Raum. Installiert ist bisher nur OpenCode, und der Kursordner liegt entpackt auf dem Laptop. Ziel: Am Ende sind Quarto und ein Editor installiert, das Exposé lässt sich nach Word rendern, und `expose/AGENTS.md` beschreibt die Gruppe. Sei freundlich und knapp, geh einen Schritt nach dem anderen und warte nach jeder Frage auf die Antwort.
+Das ist die erste Sitzung einer Gruppe mit dir, meist im Kurs mit den Lehrenden im Raum. Installiert ist bisher nur OpenCode, und der Kursordner liegt entpackt auf dem Laptop. Ziel: Am Ende sind Quarto und ein Editor installiert, das Exposé lässt sich nach Word rendern, und `AGENTS.md` beschreibt die Gruppe. Sei freundlich und knapp, geh einen Schritt nach dem anderen und warte nach jeder Frage auf die Antwort.
 
 Das Betriebssystem kennst du aus deiner Umgebung; frag nicht danach. Die Installationsschritte von Hand stehen in `kurs/anleitungen/installation.md`.
 
@@ -34,7 +34,7 @@ Frag nacheinander, jeweils mit kurzen Antwortvorschlägen:
 2. Gibt es schon ein Thema oder eine Themenrichtung? Wenn ja, in einem Satz.
 3. Gibt es schon eine Fachbetreuung? (nur das Fachgebiet, kein Name)
 
-Keine Namen, keine Matrikelnummern. Trag die Antworten in `expose/AGENTS.md` ein (die Änderung lässt du bestätigen) und sag, dass die Gruppe die Datei jederzeit selbst ändern kann; du liest sie bei jeder Sitzung.
+Keine Namen, keine Matrikelnummern. Trag die Antworten in `AGENTS.md` ein (die Änderung lässt du bestätigen) und sag, dass die Gruppe die Datei jederzeit selbst ändern kann; du liest sie bei jeder Sitzung.
 
 ## 7. Abschluss
 

@@ -1,7 +1,9 @@
 # Unsere Gruppe und unser Projekt
 
 <!--
-Diese Datei liest der Assistent bei jeder Sitzung. Was hier steht, müsst ihr
+Diese Datei liest der Assistent bei jeder Sitzung von selbst, weil sie
+AGENTS.md heißt und im Wurzelordner liegt; das ist die Konvention, die auch
+andere KI-Agenten kennen. Was hier steht, müsst ihr
 ihm nicht jedes Mal neu erklären. Haltet sie aktuell, wenn sich Thema,
 Fragestellung oder Absprachen ändern. /einrichtung füllt sie beim ersten
 Mal mit euch aus. Keine Namen, keine Matrikelnummern.

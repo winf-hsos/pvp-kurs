@@ -3,7 +3,7 @@
 **Woche 3, Di 06.10.2026: KI-unterstütztes wissenschaftliches Arbeiten**
 
 1. OpenCode installieren und diesen Kursordner öffnen (`kurs/anleitungen/installation.md`, Teil 1).
-2. Im Assistenten `/einrichtung` tippen: Er installiert mit euch Quarto und den Editor und hält eure Gruppe in `expose/AGENTS.md` fest.
+2. Im Assistenten `/einrichtung` tippen: Er installiert mit euch Quarto und den Editor und hält eure Gruppe in `AGENTS.md` fest.
 3. Absprechen, wer welchen Teil des Exposés schreibt und wer die Gesamtfassung führt (`kurs/anleitungen/zusammenarbeit.md`).
 4. Erste Literatursuche zu eurer Themenrichtung mit `/recherche`.
 

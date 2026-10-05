@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Holt die neueste Fassung des Kursordners von GitHub.
 # Ersetzt kurs/, .opencode/, opencode.json und README.md.
-# expose/ und KI-Protokoll/ bleiben unberührt.
+# expose/, AGENTS.md und KI-Protokoll/ bleiben unberührt.
 set -euo pipefail
 wurzel="$(cd "$(dirname "$0")/../.." && pwd)"
 tmp="$(mktemp -d)"
@@ -16,6 +16,8 @@ done
 for datei in opencode.json README.md .gitignore; do
   [ -f "$neu/$datei" ] && cp "$neu/$datei" "$wurzel/$datei"
 done
+# AGENTS.md gehört der Gruppe: nur anlegen, wenn sie fehlt.
+[ -e "$wurzel/AGENTS.md" ] || { cp "$neu/AGENTS.md" "$wurzel/AGENTS.md"; echo "neu: AGENTS.md"; }
 # Neue Dateien im Exposé-Gerüst nur ergänzen, nie überschreiben.
 (cd "$neu/expose" && find . -type f) | while read -r rel; do
   if [ ! -e "$wurzel/expose/$rel" ]; then
@@ -24,4 +26,4 @@ done
     echo "neu im Exposé-Ordner: ${rel#./}"
   fi
 done
-echo "Kursordner aktualisiert. expose/ und KI-Protokoll/ sind unverändert."
+echo "Kursordner aktualisiert. expose/, AGENTS.md und KI-Protokoll/ sind unverändert."

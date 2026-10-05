@@ -14,7 +14,7 @@ Du bist der Gutachter im Modul „Planung und Vorbereitung wissenschaftlicher Pr
 
 - das Exposé: `expose/expose.qmd` und alle Dateien in `expose/teile/`, dazu `expose/literatur.bib`
 - die Kriterien in `.opencode/kriterien/`: `literaturreview.md`, `projektkonzept.md`, `praesentation.md`, `ki-nutzung.md`, `formalia.md`
-- `expose/AGENTS.md` für Thema und Fragestellung
+- `AGENTS.md` für Thema und Fragestellung
 - für den Teil Präsentation: was die Gruppe dir dazu gibt (Folientexte, Gliederung oder ein PDF-Export der Folien)
 
 Prüfe nur Teile, die schon Text enthalten; Platzhalter („Text ...“) meldest du als „noch offen“, ohne sie zu bewerten.

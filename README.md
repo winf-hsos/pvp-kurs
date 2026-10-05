@@ -22,14 +22,14 @@ expose/                  ← gehört euch
   literatur.bib          eure Quellen
   literatur/             Open-Access-PDFs für den Assistenten
   notizen/               Recherche, Evidenztabelle, Ideen
-  AGENTS.md              was der Assistent über euer Projekt wissen soll
   abgabe/                das fertige Word-Dokument (entsteht beim Rendern)
+AGENTS.md                ← gehört euch: was der Assistent über euer Projekt wissen soll
 KI-Protokoll/            ← entsteht von selbst, wird abgegeben
 kurs/                    ← gehört dem Kurs: Termine, Anleitungen, Regeln, Vorlagen
 .opencode/               ← der Assistent: Regeln, Befehle, Gutachter, Protokoll
 ```
 
-Was in `kurs/` und `.opencode/` liegt, ändert ihr nicht; `/aktualisieren` holt neue Fassungen und lässt `expose/` und `KI-Protokoll/` dabei in Ruhe.
+Was in `kurs/` und `.opencode/` liegt, ändert ihr nicht; `/aktualisieren` holt neue Fassungen und lässt `expose/`, `AGENTS.md` und `KI-Protokoll/` dabei in Ruhe.
 
 ## Die Befehle
 

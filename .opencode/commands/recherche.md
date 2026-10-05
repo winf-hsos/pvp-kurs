@@ -4,7 +4,7 @@ description: Literatur zu einer Frage suchen – Suchbegriffe, Datenbanken, erst
 
 Die Gruppe sucht Literatur zu: $ARGUMENTS
 
-Steht hinter dem Befehl nichts, frag zuerst nach der Frage oder dem Thema und lies `expose/AGENTS.md`.
+Steht hinter dem Befehl nichts, frag zuerst nach der Frage oder dem Thema und lies `AGENTS.md`.
 
 1. **Suchbegriffe.** Schlag deutsche und englische Suchbegriffe vor, mit Synonymen und einer Suchkombination (UND, ODER), die die Gruppe in Datenbanken einsetzen kann. Englische Literatur ist Pflicht, weil die meisten Forschungsergebnisse auf Englisch erscheinen.
 2. **Wo suchen.** Nenne passende Orte: scinos (Suchmaschine der Hochschulbibliothek), Google Scholar, Greenpilot (Ernährungs-, Umwelt- und Agrarwissenschaften), OpenAlex, Semantic Scholar. Für lizenzierte Volltexte braucht es VPN; diese liest die Gruppe selbst, nicht du.

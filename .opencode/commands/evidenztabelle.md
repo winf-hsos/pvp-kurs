@@ -4,7 +4,7 @@ description: Aus den Open-Access-PDFs in expose/literatur/ eine Evidenztabelle b
 
 Baue eine Evidenztabelle aus den PDFs in `expose/literatur/`. $ARGUMENTS
 
-1. Lies `expose/AGENTS.md` für Thema und Fragestellung. Liste die PDFs auf. Für jedes PDF: Ist es Open Access? Wenn du es nicht sicher weißt oder es nach einem Verlagsportal mit Hochschullizenz aussieht, frag nach der Herkunft, bevor du es liest. Lizenzierte PDFs liest du nicht (Regel des Kurses).
+1. Lies `AGENTS.md` für Thema und Fragestellung. Liste die PDFs auf. Für jedes PDF: Ist es Open Access? Wenn du es nicht sicher weißt oder es nach einem Verlagsportal mit Hochschullizenz aussieht, frag nach der Herkunft, bevor du es liest. Lizenzierte PDFs liest du nicht (Regel des Kurses).
 2. Lies jedes freigegebene PDF und halte fest:
 
 | Spalte | Inhalt |
