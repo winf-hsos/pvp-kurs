@@ -1,4 +1,4 @@
-# Holt die neueste Fassung des Kursordners von GitHub.
+﻿# Holt die neueste Fassung des Kursordners von GitHub.
 # Ersetzt kurs/, .opencode/, opencode.json und README.md.
 # expose/ und KI-Protokoll/ bleiben unberührt.
 $ErrorActionPreference = 'Stop'
