@@ -1,0 +1,34 @@
+---
+title: "Titel des Projekts: kompakt, aber aussagekräftig"
+subtitle: "Exposé im Modul Planung und Vorbereitung wissenschaftlicher Projekte, Wintersemester 2026/27"
+author:
+  - "Gruppe X"
+date: today
+date-format: "DD.MM.YYYY"
+---
+
+<!--
+Das ist das Hauptdokument. Die Abschnitte stehen in eigenen Dateien im
+Ordner teile/, damit ihr gleichzeitig an verschiedenen Teilen schreiben könnt.
+Hier werden sie nur in der richtigen Reihenfolge eingebunden.
+
+Rendern nach Word: /word im Assistenten, oder im Editor "Render".
+Namen gehören erst in die Abgabefassung, nicht in Entwürfe.
+-->
+
+{{< include teile/01-oberziel-und-hintergrund.qmd >}}
+
+{{< include teile/02-literaturreview.qmd >}}
+
+{{< include teile/03-teilziele.qmd >}}
+
+{{< include teile/04-arbeitspakete-und-zeitplan.qmd >}}
+
+{{< include teile/05-gliederung.qmd >}}
+
+# Literaturverzeichnis {.unnumbered}
+
+::: {#refs}
+:::
+
+{{< include teile/90-angaben-zur-nutzung-von-ki.qmd >}}

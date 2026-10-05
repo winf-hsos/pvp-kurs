@@ -1,0 +1,18 @@
+# Literaturreview
+
+<!--
+Stand des Wissens zum Thema: die wichtigsten Inhalte aus der Literatur,
+verschriftlicht und kritisch eingeordnet, nicht nur nebeneinandergestellt.
+Umfang: vorläufige und 1. Abgabe mindestens 10 Quellen auf etwa 5 Seiten,
+finale Abgabe mindestens 30 Quellen auf etwa 10 Seiten.
+
+Originalliteratur vor Internetquellen; Bachelor- und Masterarbeiten sind
+keine Quellen. Jede Aussage aus der Literatur bekommt einen Beleg:
+"... [@mueller2020]" oder "@mueller2020 zeigt, dass ...".
+Die Evidenztabelle aus /evidenztabelle hilft beim Schreiben, ersetzt den
+Text aber nicht.
+-->
+
+## Unterkapitel mit aussagekräftiger Überschrift
+
+Text ...

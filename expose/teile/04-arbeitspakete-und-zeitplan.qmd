@@ -1,0 +1,28 @@
+# Arbeitspakete
+
+<!--
+Die wichtigsten Tätigkeiten mit Ressourcenbedarf, so dass der Workload
+nachvollziehbar wird. Kleinteilige Schritte zu größeren Paketen
+zusammenfassen; üblich sind drei bis sechs Arbeitspakete.
+-->
+
+## AP 1: Bezeichnung
+
+Text ...
+
+# Workloadplanung
+
+<!--
+Geschätzte Arbeitstage je Arbeitspaket als Tabelle, dann prüfen, ob das
+Zeitbudget passt: 10-CP-Projekt mit drei Personen = 900 h = etwa 110
+Arbeitstage = etwa 35 Tage je Person = etwa 2 Tage je Woche, einschließlich
+Projektplanung, Verschriftlichung, Blockwoche und Prüfungszeit.
+-->
+
+| Arbeitspaket | Inhalt | Arbeitstage |
+|---|---|---:|
+| AP 1 | ... | 0 |
+| AP 2 | ... | 0 |
+| **Summe** | | **0** |
+
+: Geschätzter Workload je Arbeitspaket {#tbl-workload}

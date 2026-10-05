@@ -1,0 +1,15 @@
+# Vorläufige Gliederung des späteren Projektberichts
+
+<!--
+Damit die Struktur der späteren Arbeit früh feststeht, besonders die des
+Literaturreviews. Aussagekräftige Über- und Unterüberschriften, vor allem in
+Literaturreview, Methodik und Ergebnissen.
+-->
+
+1. Einleitung
+2. Stand des Wissens
+   1. ...
+3. Material und Methoden
+4. Ergebnisse
+5. Diskussion
+6. Fazit

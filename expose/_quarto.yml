@@ -1,0 +1,23 @@
+project:
+  type: default
+  output-dir: abgabe
+  render:
+    - expose.qmd
+
+lang: de
+bibliography: literatur.bib
+csl: ../kurs/vorlagen/leitfaden-hsos.csl
+link-citations: true
+crossref:
+  fig-title: "Abb."
+  tbl-title: "Tab."
+  fig-prefix: "Abb."
+  tbl-prefix: "Tab."
+  title-delim: ":"
+
+format:
+  docx:
+    reference-doc: ../kurs/vorlagen/word-vorlage.docx
+    toc: true
+    toc-title: Inhaltsverzeichnis
+    number-sections: true

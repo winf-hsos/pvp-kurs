@@ -1,0 +1,11 @@
+# Teilziele
+
+<!--
+Das Oberziel auf Grundlage des Literaturreviews in Teilziele herunterbrechen,
+etwa einzelne Forschungsfragen, die mit Versuch, Befragung oder Datenanalyse
+beantwortet werden sollen. Zu jedem Teilziel kurz, mit welchem Arbeitspaket
+es erreicht wird.
+-->
+
+1. Teilziel ...
+2. Teilziel ...

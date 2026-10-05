@@ -1,0 +1,36 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    ".opencode/assistent.md",
+    "expose/AGENTS.md"
+  ],
+  "model": "opencode/space-bunny-free",
+  "small_model": "opencode/space-bunny-free",
+  "share": "disabled",
+  "permission": {
+    "edit": {
+      "*": "ask",
+      "expose/**": "ask",
+      "kurs/**": "deny",
+      ".opencode/**": "deny",
+      "opencode.json": "deny",
+      "KI-Protokoll/**": "deny"
+    },
+    "bash": {
+      "*": "ask",
+      "quarto --version": "allow",
+      "quarto render*": "allow",
+      "quarto check*": "allow",
+      "code --version": "allow",
+      "positron --version": "allow",
+      "ls": "allow",
+      "ls *": "allow",
+      "dir": "allow",
+      "dir *": "allow",
+      "Get-ChildItem": "allow",
+      "Get-ChildItem *": "allow"
+    },
+    "webfetch": "allow",
+    "websearch": "allow"
+  }
+}

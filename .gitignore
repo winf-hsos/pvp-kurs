@@ -1,0 +1,19 @@
+# Erzeugt beim Rendern
+expose/abgabe/
+expose/.quarto/
+expose/*_files/
+
+# Gehört der Gruppe, nicht dem Kurs
+KI-Protokoll/*
+!KI-Protokoll/LIESMICH.md
+expose/literatur/*.pdf
+
+# OpenCode
+.opencode/node_modules/
+.opencode/package-lock.json
+.opencode/bun.lock
+
+# System
+.DS_Store
+Thumbs.db
+~$*

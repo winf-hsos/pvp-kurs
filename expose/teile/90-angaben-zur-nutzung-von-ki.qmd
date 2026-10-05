@@ -1,0 +1,17 @@
+# Angaben zur Nutzung von KI {.unnumbered}
+
+<!--
+Pflichtabschnitt nach dem Leitfaden der Fakultät. Den Entwurf schreibt
+/ki-angaben aus eurem KI-Protokoll; prüft ihn und bringt ihn in eure Worte.
+Nennt Werkzeug, Version, Zeitraum und wofür ihr es genutzt habt.
+-->
+
+Bei der Erstellung dieses Exposés wurde der KI-Assistent OpenCode (Version ..., Sprachmodell ...) im Zeitraum vom ... bis ... eingesetzt, um ...
+
+Die vollständigen Sitzungsprotokolle liegen der Abgabe im Ordner „KI-Protokoll“ bei.
+
+## Erklärung zum Einsatz von Künstlicher Intelligenz (KI) {.unnumbered}
+
+Bei der Erstellung dieser Arbeit wurde das KI-Tool OpenCode mit dem Sprachmodell ... verwendet, um ... Nach der Verwendung dieses Tools wurden alle Inhalte überprüft und bearbeitet. Die volle Verantwortung für den Inhalt der Ausarbeitung liegt bei den Autorinnen und Autoren.
+
+Ort, Datum, Unterschriften

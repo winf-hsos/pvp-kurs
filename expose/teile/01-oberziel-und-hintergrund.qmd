@@ -1,0 +1,20 @@
+# Oberziel
+
+<!--
+Das Anliegen des Projekts genauer fassen als im Titel. Spätestens hier
+(gern schon im Titel) den methodischen Ansatz nennen: Befragung, Versuch,
+Analyse vorhandener Daten. Zwei bis vier Sätze.
+-->
+
+Ziel des Projekts ist es, ...
+
+# Themenhintergrund und Begründung
+
+<!--
+Das Problem im Praxiskontext, die Situation, die Zielgruppe und warum das
+Thema aktuell und relevant ist. Jede Behauptung mit Beleg, Zitate so:
+[@schluessel] oder [@schluessel, S. 12]. Die Schlüssel stehen in
+literatur.bib. Ausformulierter Text, keine Stichpunkte.
+-->
+
+Text ...
