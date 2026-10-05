@@ -8,7 +8,8 @@ In diesem Ordner schreibt eure Gruppe ihr Exposé, zusammen mit einem KI-Assiste
 
 1. [OpenCode installieren](kurs/anleitungen/installation.md) und diesen Ordner als ZIP laden ([Code > Download ZIP](https://github.com/winf-hsos/pvp-kurs/archive/refs/heads/main.zip)).
 2. Den Ordner entpacken; jede Person der Gruppe hat ihren eigenen. Wie ihr trotzdem gemeinsam schreibt, steht in [zusammenarbeit.md](kurs/anleitungen/zusammenarbeit.md).
-3. In OpenCode öffnen und `/einrichtung` tippen.
+3. In OpenCode öffnen und den Kursschlüssel für GPT-6 Luna eintragen (Settings > Providers > OpenAI; der Schlüssel kommt über den Teams-Raum, [Anleitung](kurs/anleitungen/installation.md)).
+4. Eine neue Sitzung starten und `/einrichtung` tippen.
 
 Was diese Woche dran ist, steht in [kurs/JETZT.md](kurs/JETZT.md).
 

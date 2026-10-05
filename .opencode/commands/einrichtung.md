@@ -12,7 +12,7 @@ In zwei, drei Sätzen: wer du bist (der Kursassistent im Modul), was jetzt passi
 
 ## 2. Kursmodell
 
-Prüfe kurz, ob du über das Kursmodell GPT-6 Luna antwortest; das zeigt die Modellauswahl unter dem Eingabefeld. Kommt beim ersten Auftrag eine Fehlermeldung zum Schlüssel, erkläre den Weg aus `kurs/anleitungen/installation.md` (Settings > Providers > OpenAI > Connect > API key). Bitte die Gruppe nie, dir den Schlüssel in den Chat zu schreiben; schreibt sie ihn trotzdem hinein, sag ihr, dass er damit an den Server gegangen ist und sie ihn den Lehrenden melden soll.
+Dass du antwortest, heißt: Der Schlüssel ist eingetragen, oder die Person arbeitet mit dem kostenlosen Modell Space Bunny. Ohne Schlüssel kann das Kursmodell GPT-6 Luna gar nicht antworten; dann erscheint statt deiner Antwort „OpenAI API key is missing“, und die Anleitung in `kurs/anleitungen/installation.md` hilft weiter. Sag in einem Satz, über welches Modell du gerade arbeitest (es steht unter dem Eingabefeld), und erinnere daran, dass der Schlüssel nur in die Einstellungen gehört, nie in den Chat. Schreibt jemand ihn trotzdem hinein, sag, dass er damit an den Server gegangen ist und den Lehrenden gemeldet werden soll.
 
 ## 3. Quarto
 
