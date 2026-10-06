@@ -30,6 +30,8 @@ Ladet den Kursordner als ZIP von [github.com/winf-hsos/pvp-kurs](https://github.
 
 **Der Schlüssel ist wie ein Passwort.** Jede Antwort des Assistenten kostet Geld, und der Kurs bezahlt sie. Gebt den Schlüssel niemandem außerhalb des Kurses weiter, legt ihn in keine Datei im Kursordner und fügt ihn nie in den Chat ein, auch nicht in den mit eurem Assistenten.
 
+**Meldet OpenCode, der Schlüssel sei falsch,** stehen meist unsichtbare Zeichen oder ein Leerzeichen vor oder hinter dem Schlüssel, vor allem nach dem Kopieren aus Teams oder Word. Geht in OpenCode auf **Settings**, dann **Providers**, entfernt dort OpenAI (*Remove*), verbindet es mit **+ Connect** neu und fügt den Schlüssel noch einmal ein, ohne etwas davor oder dahinter.
+
 Ohne Schlüssel oder wenn das Kursmodell einmal nicht antwortet, wählt ihr unter dem Eingabefeld das kostenlose Modell **Space Bunny** (`opencode/space-bunny-free`); es braucht keinen Schlüssel.
 
 ## Teil 2: der Assistent übernimmt
