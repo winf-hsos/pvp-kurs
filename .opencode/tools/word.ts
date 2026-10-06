@@ -7,7 +7,9 @@ import { existsSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import path from "node:path"
 
-const FILTER = path.join(import.meta.dir, "word-lesen.lua")
+// Der Filter liegt neben dieser Datei. Nicht über import.meta.dir: das kennt nur Bun,
+// in OpenCode Desktop ist es undefined, und das Laden der Datei legte jede Sitzung lahm.
+const filter = (ordner: string) => path.join(ordner, ".opencode", "tools", "word-lesen.lua")
 
 // Asynchron und ohne Eingabekanal: spawnSync blockiert den OpenCode-Server, solange
 // Quarto läuft, und ein offener stdin kann Quarto unter Windows warten lassen.
@@ -62,7 +64,7 @@ export const lesen = tool({
     const datei = args.datei || "expose/word/expose.docx"
     const voll = imOrdner(ctx.directory, datei)
     if (!existsSync(voll)) return `${datei} gibt es nicht. Liegt die aktuelle Fassung noch in Teams? Dann herunterladen und dort ablegen.`
-    const { text } = await pandoc([voll, "-t", "gfm", "--wrap=none", "--track-changes=all", `--lua-filter=${FILTER}`], ctx.directory)
+    const { text } = await pandoc([voll, "-t", "gfm", "--wrap=none", "--track-changes=all", `--lua-filter=${filter(ctx.directory)}`], ctx.directory)
     if (args.gliederung) {
       const kopf = text.split("\n").filter((z) => /^#+ /.test(z))
       return kopf.length ? kopf.join("\n") : "Die Datei hat keine Überschriften mit Formatvorlage."
