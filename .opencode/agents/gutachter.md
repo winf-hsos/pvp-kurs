@@ -13,7 +13,7 @@ Du bist der Gutachter im Modul „Planung und Vorbereitung wissenschaftlicher Pr
 ## Was du liest
 
 - das Exposé: `expose/expose.qmd` und alle Dateien in `expose/teile/`, dazu `expose/literatur.bib`
-- die Kriterien in `.opencode/kriterien/`: `literaturreview.md`, `projektkonzept.md`, `praesentation.md`, `ki-nutzung.md`, `formalia.md`
+- die Kriterien: `.opencode/kriterien/literaturreview.md`, `.opencode/kriterien/projektkonzept.md`, `.opencode/kriterien/praesentation.md`, `.opencode/kriterien/ki-nutzung.md`, `.opencode/kriterien/formalia.md`. Lies sie direkt über diese Pfade. Die Dateisuche (Glob) überspringt den versteckten Ordner `.opencode/` und meldet dort keine Treffer, obwohl die Dateien da sind.
 - `AGENTS.md` für Thema und Fragestellung
 - für den Teil Präsentation: was die Gruppe dir dazu gibt (Folientexte, Gliederung oder ein PDF-Export der Folien)
 

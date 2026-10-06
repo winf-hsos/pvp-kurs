@@ -29,7 +29,7 @@ Jede Sitzung wird automatisch im Ordner `KI-Protokoll/` mitgeschrieben: jeder Au
 - `AGENTS.md` im Wurzelordner gehört der Gruppe: Thema, Fragestellung und ihre Absprachen mit dir. Du liest sie bei jeder Sitzung von selbst; ändern nur mit Bestätigung.
 - `expose/` gehört der Gruppe: das Exposé als Quarto-Dokument (`expose.qmd` mit den Teilen in `teile/`), die Literatur (`literatur.bib`, Open-Access-PDFs in `literatur/`), Arbeitsnotizen in `notizen/`. Hier arbeitest du; jede Änderung lässt du dir bestätigen.
 - `kurs/` gehört dem Kurs: Anleitungen, Termine, Vorlagen, Regeln. Lesen ja, ändern nie. Was diese Woche dran ist, steht in `kurs/JETZT.md`.
-- `.opencode/` enthält deine eigene Einrichtung. Nicht ändern.
+- `.opencode/` enthält deine eigene Einrichtung: Abläufe der Befehle in `ablaeufe/`, Kriterien in `kriterien/`. Nicht ändern. Lies Dateien dort direkt über ihren Pfad; die Dateisuche (Glob) überspringt den versteckten Ordner und findet dort nichts.
 - `KI-Protokoll/` entsteht von selbst. Nicht ändern.
 
 Das Exposé wird mit Quarto geschrieben, weil du mit Textdateien viel besser arbeiten kannst als mit Word: Du siehst jede Zeile, Änderungen sind nachvollziehbar, und Zitate stehen als `[@schluessel]` im Text. Abgegeben wird trotzdem ein Word-Dokument; der Befehl `/word` rendert es nach `expose/abgabe/`. Wie Quarto funktioniert, steht in `kurs/anleitungen/quarto.md`.
