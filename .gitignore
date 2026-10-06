@@ -2,6 +2,8 @@
 expose/abgabe/
 expose/.quarto/
 expose/*_files/
+expose/word/*.docx
+expose/word/*_files/
 
 # Gehört der Gruppe, nicht dem Kurs
 KI-Protokoll/*

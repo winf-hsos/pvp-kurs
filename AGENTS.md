@@ -22,9 +22,15 @@ Mal mit euch aus. Keine Namen, keine Matrikelnummern.
 - Studiengang: (BNE, BLP oder BAT)
 - Fachbetreuung: (Fachgebiet der betreuenden Person, kein Name nötig)
 
+## Wie wir arbeiten
+
+- Schreibwerkzeug: (Quarto, Word oder LaTeX)
+- Literaturverwaltung: (keine, Zotero, Citavi oder ein anderes Programm)
+- Gruppennummer: (aus dem Teams-Raum, für die Namen der Abgabedateien)
+
 ## Zitierstil
 
-Kurzbeleg im Text mit Namen in Großbuchstaben nach dem Leitfaden der Fakultät, zum Beispiel (MÜLLER 2012) oder MEFFERT et al. (2002). Quarto setzt das aus `literatur.bib` von selbst.
+Kurzbeleg im Text mit Namen in Großbuchstaben nach dem Leitfaden der Fakultät, zum Beispiel (MÜLLER 2012) oder MEFFERT et al. (2002). Mit Quarto entsteht das aus `literatur.bib` von selbst; wer in Word schreibt, setzt die Kurzbelege selbst und lässt das Literaturverzeichnis mit `/word` erzeugen.
 
 ## Unsere Absprachen mit dem Assistenten
 

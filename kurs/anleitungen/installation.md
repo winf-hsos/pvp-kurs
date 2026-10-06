@@ -8,7 +8,7 @@ Ihr braucht drei kostenlose Programme, die unter Windows und macOS laufen:
 | **Quarto** | macht aus eurem Text ein Word-Dokument | [quarto.org](https://quarto.org/docs/get-started/) |
 | **Positron** | der Editor, in dem ihr schreibt | [positron.posit.co](https://positron.posit.co/) |
 
-Nur OpenCode installiert ihr von Hand. Die beiden anderen installiert der Assistent mit euch, wenn ihr `/einrichtung` tippt.
+Nur OpenCode installiert ihr von Hand. Die beiden anderen installiert der Assistent mit euch, wenn ihr `/einrichtung` tippt. Wer in Word schreibt ([word.md](word.md)), braucht Positron nicht, Quarto aber schon: Damit liest der Assistent eure Word-Datei.
 
 ## Teil 1: von Hand
 

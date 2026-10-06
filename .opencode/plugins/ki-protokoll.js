@@ -81,6 +81,9 @@ export const KiProtokoll = async ({ directory }) => {
       case "webfetch": return `Webseite gelesen: ${input.url}`
       case "websearch": return `im Web gesucht: „${input.query}“`
       case "task": return `Teilauftrag an ${input.subagent_type ?? "Unteragent"}: ${input.description ?? ""}`
+      case "word_lesen": return `Word-Datei gelesen: ${input.datei || "expose/word/expose.docx"}${input.abschnitt ? ` (Abschnitt „${input.abschnitt}“)` : input.gliederung ? " (Gliederung)" : ""}`
+      case "word_literaturverzeichnis": return "Literaturverzeichnis erzeugt: expose/word/literaturverzeichnis.docx"
+      case "word_erzeugen": return `Word-Datei erzeugt aus: ${input.datei}`
       case "todowrite": case "todoread": return null
       default: return `${tool}${datei ? `: ${datei}` : ""}`
     }

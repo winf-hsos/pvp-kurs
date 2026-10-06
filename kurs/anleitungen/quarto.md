@@ -4,6 +4,9 @@ Euer Exposé ist eine Textdatei mit der Endung `.qmd`. Quarto macht daraus ein W
 
 ## Warum nicht gleich Word?
 
+Ihr dürft auch in Word schreiben; wie der Assistent euch dann hilft, steht in [word.md](word.md). Für Quarto spricht:
+
+
 Weil euer Assistent mit Text viel besser arbeiten kann. Er sieht jede Zeile, kann gezielt einen Absatz ändern, ohne die Formatierung zu zerstören, und jede Änderung ist nachvollziehbar. Zitate stehen als kurzer Schlüssel im Text, das Literaturverzeichnis entsteht von selbst und ist immer vollständig. Das Format, Markdown, ist dasselbe, in dem Sprachmodelle selbst am liebsten schreiben. Abgegeben wird trotzdem Word, denn die Lehrenden kommentieren darin.
 
 ## Das Wichtigste in fünf Minuten

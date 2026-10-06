@@ -16,5 +16,5 @@ Baue eine Evidenztabelle aus den PDFs in `expose/literatur/` und beachte, was di
 | Bezug zu unserem Projekt | warum das für das Exposé wichtig ist |
 | Grenzen | was die Studie nicht zeigt |
 
-3. Schreib die Tabelle als `expose/notizen/evidenztabelle.md` (Änderung bestätigen lassen; eine vorhandene Tabelle ergänzen, nicht überschreiben). Darunter in drei, vier Sätzen, was die Quellen gemeinsam zeigen und wo sie sich widersprechen.
+3. Schreib die Tabelle als `expose/notizen/evidenztabelle.md` (Änderung bestätigen lassen; eine vorhandene Tabelle ergänzen, nicht überschreiben). Darunter in drei, vier Sätzen, was die Quellen gemeinsam zeigen und wo sie sich widersprechen. Schreibt die Gruppe in Word, mach daraus zusätzlich mit `word_erzeugen` eine Word-Datei, aus der sie die Tabelle kopieren kann.
 4. Sag dazu: Die Tabelle ist eine Arbeitshilfe, die die Gruppe Zeile für Zeile am Original prüfen muss, besonders die Zahlen. KI für Tabellen ist in diesem Modul ausdrücklich erlaubt, in anderen Arbeiten erst nach Absprache mit der Betreuungsperson, und gehört in die „Angaben zur Nutzung von KI“. Der Literaturreview selbst ist Text, den die Gruppe schreibt; die Tabelle ersetzt ihn nicht.

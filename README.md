@@ -22,6 +22,7 @@ expose/                  ← gehört euch
   literatur.bib          eure Quellen
   literatur/             Open-Access-PDFs für den Assistenten
   notizen/               Recherche, Evidenztabelle, Ideen
+  word/                  nur wer in Word schreibt: expose.docx und das Literaturverzeichnis
   abgabe/                das fertige Word-Dokument (entsteht beim Rendern)
 AGENTS.md                ← gehört euch: was der Assistent über euer Projekt wissen soll
 KI-Protokoll/            ← entsteht von selbst, wird abgegeben
@@ -31,17 +32,19 @@ kurs/                    ← gehört dem Kurs: Termine, Anleitungen, Regeln, Vor
 
 Was in `kurs/` und `.opencode/` liegt, ändert ihr nicht; `/aktualisieren` holt neue Fassungen und lässt `expose/`, `AGENTS.md` und `KI-Protokoll/` dabei in Ruhe.
 
+Ihr schreibt lieber in Word? Das geht auch, der Assistent liest dann eure Word-Datei: [kurs/anleitungen/word.md](kurs/anleitungen/word.md).
+
 ## Die Befehle
 
 | Befehl | Was er tut |
 |---|---|
-| `/einrichtung` | einmal zu Beginn: Quarto und Editor installieren, Gruppe festhalten |
+| `/einrichtung` | einmal zu Beginn: klären, ob ihr mit Quarto oder Word schreibt, Programme installieren, Gruppe festhalten |
 | `/recherche <frage>` | Suchbegriffe, Datenbanken und erste Treffer |
 | `/quelle <doi>` | eine Quelle prüfen und in `literatur.bib` aufnehmen |
 | `/evidenztabelle` | Tabelle aus den PDFs in `expose/literatur/` |
 | `/konsistenz` | passen Oberziel, Teilziele, Arbeitspakete und Workload zusammen? |
 | `/review [teil]` | Gutachten nach den Kriterien der Lehrenden |
-| `/word` | das Exposé nach Word rendern |
+| `/word` | das Exposé nach Word rendern; wer in Word schreibt: Literaturverzeichnis erzeugen und Zitate prüfen |
 | `/ki-angaben` | „Angaben zur Nutzung von KI“ aus dem Protokoll entwerfen |
 | `/aktualisieren` | neue Kursmaterialien holen |
 
@@ -51,4 +54,4 @@ Die KI-Regeln des Leitfadens der Fakultät gelten auch hier; die Kurzfassung ste
 
 ## Abgabe
 
-Zu jeder Abgabe (vorläufig, 1. Abgabe, final) über die Aufgabe im Teams-Raum: `expose/abgabe/expose.docx`, die Präsentation als PowerPoint und von jeder Person ihren Ordner `KI-Protokoll` als eigenes ZIP. Termine in [kurs/termine.md](kurs/termine.md).
+Zu jeder Abgabe (vorläufig, 1. Abgabe, final) über die Aufgabe im Teams-Raum: `expose/abgabe/expose.docx` (oder eure Word-Datei), die Präsentation als PowerPoint und von jeder Person ihren Ordner `KI-Protokoll` als eigenes ZIP. Termine in [kurs/termine.md](kurs/termine.md).

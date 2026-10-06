@@ -2,6 +2,8 @@
 
 Jede Person hat ihren eigenen Kursordner auf dem eigenen Laptop, mit eigenem Assistenten und eigenem KI-Protokoll. Das Exposé schreibt ihr trotzdem gemeinsam; dafür ist es in Dateien aufgeteilt (`expose/teile/`).
 
+Schreibt ihr in Word, ist es einfacher: Ihr arbeitet gemeinsam in einer Datei in Teams, wie in [word.md](word.md) beschrieben, und die Schritte unten entfallen bis auf das KI-Protokoll.
+
 ## So geht es
 
 1. **Teile verteilen.** Sprecht ab, wer welchen Abschnitt schreibt, etwa eine Person Literaturreview, eine Oberziel und Hintergrund, eine Teilziele, Arbeitspakete und Workload. Jede Person arbeitet in ihrem Kursordner an ihren Dateien.
