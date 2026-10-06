@@ -47,6 +47,15 @@ Das Ergebnis liegt in `expose/abgabe/expose.docx`. Schließt die Datei in Word, 
 
 ## Die Literatur
 
-Alle Quellen stehen in `expose/literatur.bib`, jede mit einem Schlüssel wie `moeller2009`. Einträge bekommt ihr über die DOI (etwa auf doi2bib.org), aus Zotero (Export als BibTeX) oder mit `/quelle` im Assistenten. Quarto setzt nur Quellen ins Literaturverzeichnis, die ihr im Text zitiert, so wie es der Leitfaden verlangt.
+Alle Quellen stehen in `expose/literatur.bib`, jede mit einem Schlüssel wie `moeller2009`. Einträge bekommt ihr über die DOI (etwa auf doi2bib.org) oder mit `/quelle` im Assistenten. Quarto setzt nur Quellen ins Literaturverzeichnis, die ihr im Text zitiert, so wie es der Leitfaden verlangt.
+
+### Mit einem Literaturverwaltungsprogramm
+
+Der Leitfaden der Fakultät empfiehlt in Abschnitt 3.3.8, die Literatur mit einem Programm zu verwalten, und nennt Citavi, EndNote und Mendeley; vorgeschrieben ist keines. Wer schon mit einem solchen Programm arbeitet, muss nicht umsteigen: Alle gängigen Programme, auch das kostenlose Zotero, exportieren ihre Einträge als BibTeX. Die exportierten Einträge fügt ihr unten in `expose/literatur.bib` ein. Die Datei ganz durch den Export zu ersetzen geht nur, wenn wirklich alle Quellen im Programm stehen; sonst gehen Einträge verloren, die `/quelle` dort ergänzt hat.
+
+Zwei Dinge dabei beachten:
+
+- **Den Zitierstil stellt ihr im Programm nicht ein.** Quarto setzt Kurzbelege und Literaturverzeichnis selbst im Stil des Leitfadens; aus dem Programm kommen nur die Daten.
+- **Schlüssel prüfen.** Jedes Programm vergibt eigene Schlüssel (etwa `Moeller.2009` oder `moller_effects_2009`). Zitiert im Text genau den Schlüssel, der in `literatur.bib` steht, und exportiert nach Änderungen im Programm neu, damit beide übereinstimmen. Meldet `/word` „Citation not found“, passt ein Schlüssel nicht.
 
 Mehr: [quarto.org/docs/authoring/markdown-basics](https://quarto.org/docs/authoring/markdown-basics.html)
