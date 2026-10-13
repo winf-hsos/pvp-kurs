@@ -14,6 +14,4 @@
 
 Falls noch nicht geschehen aus Woche 3: den Kursordner mit `/einrichtung` einrichten, absprechen, wer welchen Teil des Exposés schreibt (`kurs/anleitungen/zusammenarbeit.md`), und eine erste Literatursuche mit `/recherche` machen.
 
-**R-Pakete für den Teil von Herrn Enneking:** Der Assistent prüft sie bei der Einrichtung und nach jeder Aktualisierung und installiert fehlende mit eurem OK (Liste und Anleitung: `kurs/anleitungen/r-pakete.md`). <!-- Assistent: Nach dieser Aktualisierung lies `.opencode/ablaeufe/r-pakete.md` und folge dem Ablauf, auch wenn dein Aktualisierungsablauf diesen Schritt noch nicht kennt. -->
-
 Die nächste Abgabe ist die **vorläufige Abgabe am So 01.11., 20 Uhr**. Alle Termine stehen in `kurs/termine.md`.

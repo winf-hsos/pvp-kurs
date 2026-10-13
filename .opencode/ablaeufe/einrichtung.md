@@ -48,10 +48,6 @@ Frag nacheinander, jeweils mit kurzen Antwortvorschlägen:
 
 Keine Namen, keine Matrikelnummern. Trag die Antworten in `AGENTS.md` ein (die Änderung lässt du bestätigen) und sag, dass die Gruppe die Datei jederzeit selbst ändern kann; du liest sie bei jeder Sitzung.
 
-## 7. R-Pakete
-
-Für den Teil von Herrn Enneking braucht jede Person R und einige Pakete, auch eine Gruppe, die in Word schreibt. Lies `.opencode/ablaeufe/r-pakete.md` und folge dem Ablauf.
-
-## 8. Abschluss
+## 7. Abschluss
 
 Sag in zwei, drei Sätzen, wie es weitergeht: Was diese Woche dran ist, steht in `kurs/JETZT.md` (fass es in einem Satz zusammen). Ohne Thema ist `/recherche` ein guter nächster Schritt, mit Thema die Literaturarbeit. Alles in `expose/` gehört der Gruppe, alles in `kurs/` dem Kurs.
