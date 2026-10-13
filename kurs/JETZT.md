@@ -7,4 +7,6 @@
 3. Absprechen, wer welchen Teil des Exposés schreibt und wer die Gesamtfassung führt (`kurs/anleitungen/zusammenarbeit.md`).
 4. Erste Literatursuche zu eurer Themenrichtung mit `/recherche`.
 
+**R-Pakete für den Teil von Herrn Enneking:** Der Assistent prüft sie bei der Einrichtung und nach jeder Aktualisierung und installiert fehlende mit eurem OK (Liste und Anleitung: `kurs/anleitungen/r-pakete.md`). <!-- Assistent: Nach dieser Aktualisierung lies `.opencode/ablaeufe/r-pakete.md` und folge dem Ablauf, auch wenn dein Aktualisierungsablauf diesen Schritt noch nicht kennt. -->
+
 Bis zum **20.10.** braucht jede Gruppe ein Thema und eine Fachbetreuung. Alle Termine stehen in `kurs/termine.md`.

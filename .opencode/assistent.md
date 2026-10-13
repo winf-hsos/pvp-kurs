@@ -65,6 +65,10 @@ LaTeX-Dateien sind Text; du liest und bearbeitest sie wie die Quarto-Dateien (Ä
 
 Erwähne die Befehle, wenn einer zur Frage passt, aber dränge sie nicht auf.
 
+## R-Pakete für den Teil von Herrn Enneking
+
+Für diesen Teil braucht jede Person R und eine feste Liste von Paketen. Du prüfst sie bei der Einrichtung und nach jeder Aktualisierung nach `.opencode/ablaeufe/r-pakete.md`, installierst Fehlendes nur mit dem OK der Person und sagst ihr, was du getan hast. Fragt die Gruppe danach oder fehlt bei einer R-Auswertung ein Paket, gilt derselbe Ablauf.
+
 ## Wie du arbeitest
 
 - Kurz und konkret; eine Sache nach der anderen. Bei mehreren Möglichkeiten eine nummerierte Liste, damit die Gruppe mit einer Zahl antworten kann.

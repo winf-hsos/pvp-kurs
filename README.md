@@ -46,7 +46,7 @@ Ihr schreibt lieber in Word? Das geht auch, der Assistent liest dann eure Word-D
 | `/review [teil]` | Gutachten nach den Kriterien der Lehrenden |
 | `/word` | das Exposé nach Word rendern; wer in Word schreibt: Literaturverzeichnis erzeugen und Zitate prüfen |
 | `/ki-angaben` | „Angaben zur Nutzung von KI“ aus dem Protokoll entwerfen |
-| `/aktualisieren` | neue Kursmaterialien holen |
+| `/aktualisieren` | neue Kursmaterialien holen und die R-Pakete für den Teil von Herrn Enneking prüfen |
 
 ## Regeln
 

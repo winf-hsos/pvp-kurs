@@ -43,6 +43,8 @@
       "quarto --version": "allow",
       "quarto render*": "allow",
       "quarto check*": "allow",
+      "Rscript --version": "allow",
+      "Rscript .opencode/scripts/check-r-packages.R": "allow",
       "code --version": "allow",
       "positron --version": "allow",
       "ls": "allow",
