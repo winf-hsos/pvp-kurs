@@ -352,6 +352,9 @@ const setupV2 = async (ctx) => {
     if (!ours(event)) return
     const d = event.data
     const id = d.sessionID
+    // 2.x may load the plugin after the session was created; then the first event opens it.
+    if (["session.inbox.enqueued", "session.text.ended", "session.tool.called", "session.renamed"].includes(event.type))
+      rec.begin(id, { start: event.created, version: ctx.app?.version })
     switch (event.type) {
       case "session.created":
         rec.begin(id, { start: event.created, parent: d.parentID, version: d.version })
