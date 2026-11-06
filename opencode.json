@@ -4,7 +4,7 @@
     ".opencode/assistent.md"
   ],
   "model": "openai/gpt-6-luna",
-  "small_model": "opencode/space-bunny-free",
+  "small_model": "opencode/beam-free",
   "enabled_providers": [
     "openai",
     "opencode"
